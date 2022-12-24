@@ -1,0 +1,1842 @@
+<!--<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />-->
+<p>Je pakketje is er bijna!</p>
+<!-- [if !mso]><!--><!-- Load external font stylesheet -->
+<p></p>
+<!--<![endif]-->
+<p></p>
+<!-- | Reset styles | -->
+<style type="text/css"><!--
+div, h1, h2, h3, h4, h5, h6, p, a, li, span, td, body {
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+
+        table, td, th {
+            border-spacing: 0;
+            font-weight: normal;
+        }
+
+        body, div, td, th, ul, ol, li, h1, h2, h3, h4, h5, h6, p {
+            margin: 0;
+            padding: 0;
+            font-weight: normal;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+            border: 0;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+            a:visited {
+                color: #5cb85c;
+                text-decoration: none;
+            }
+
+        #outlook a {
+            padding: 0;
+        }
+
+        .wrapper {
+            table-layout: fixed;
+        }
+--></style>
+<!-- | General styles | -->
+<style type="text/css"><!--
+html {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            width: 100% !important;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            -webkit-font-smoothing: antialiased;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+
+        table {
+            border: 0;
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+
+            table td {
+                border-collapse: collapse;
+                margin: 0;
+                padding: 0;
+            }
+
+        th {
+            font-weight: normal !important;
+            font-size: 0px !important;
+        }
+
+        img {
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+            margin: 0;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            vertical-align: middle;
+        }
+
+        input {
+            display: none;
+        }
+
+        h1, h2, h3, h4, h5, h6, p {
+            margin: 0 !important;
+        }
+
+        h2 {
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 28px;
+            font-weight: bold;
+            color: #777777;
+            line-height: 28px;
+            padding: 0px 0px 4px 0px;
+        }
+
+            h2.leaderboard {
+                font-size: 13px !important;
+            }
+
+            h2.leaderboard_fallback {
+                font-size: 13px !important;
+            }
+
+        h3 {
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 14px;
+            font-weight: normal;
+            color: #333333;
+            line-height: 20px;
+        }
+
+            h3.leaderboard {
+                font-size: 12px !important;
+                line-height: 20px !important;
+                font-weight: normal;
+            }
+
+            h3.themeblock, h3.branding {
+                font-size: 15px !important;
+                color: #777777 !important;
+            }
+
+        h4 {
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            font-weight: bold;
+            color: #777777;
+            line-height: 17px;
+        }
+
+        p {
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 12px;
+            font-weight: normal;
+            color: #777777;
+            line-height: 18px;
+        }
+
+            p.label {
+                color: #ffffff !important;
+                text-align: left !important;
+                vertical-align: middle !important;
+                line-height: 14px !important;
+                font-weight: bold;
+            }
+
+            p.label_blue {
+                font-size: 13px !important;
+                color: #ffffff !important;
+            }
+
+        u + #new-gmail-hack {
+            display: block !important;
+        }
+
+        #outlook a {
+            padding: 0;
+        }
+
+        .font_dobra {
+            font-family: Calibri, Trebuchet, Arial, sans-serif !important;
+            font-weight: bold !important;
+        }
+
+        .container {
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+            line-height: 100% !important;
+        }
+
+        .background_white {
+            background-color: #ffffff !important;
+        }
+
+        .background_dhz {
+            background-color: #ffffff !important;
+        }
+
+        .background_dhz-footer {
+            background-color: #f01f20 !important;
+        }
+
+        .background_greyblue {
+            background-color: #F2F7FC !important;
+        }
+
+        .border_white {
+            border: 1px solid #ffffff !important;
+        }
+
+        .border-top_grey {
+            border-top: 1px solid #dddddd !important;
+        }
+
+        .border-right_grey {
+            border-right: 1px solid #dddddd !important;
+        }
+
+        .border-bottom_grey {
+            border-bottom: 1px solid #ffffff !important;
+        }
+
+        .border-bottom_green {
+            border-bottom: 1px solid #5cb85c !important;
+        }
+
+        .border-bottom_greyblue {
+            border-bottom: 1px solid #5cb85c !important;
+        }
+
+        .box_round_corners {
+            border-radius: 3px !important;
+        }
+
+        .link_white {
+            color: #ffffff !important;
+            text-decoration: none !important;
+        }
+
+        .link_grey {
+            color: #777777 !important;
+            text-decoration: none !important;
+        }
+
+        .link_black {
+            color: #333333 !important;
+            text-decoration: none !important;
+        }
+
+        .link_dhz {
+            color: #5cb85c !important;
+            text-decoration: none !important;
+        }
+
+        .link_dhz1 {
+            color: #ffffff !important;
+            text-decoration: none !important;
+            font-weight: bold;
+            font-size: 14px;
+        }
+
+        .link_green {
+            color: #5cb85c !important;
+            text-decoration: none !important;
+            font-weight: bold;
+        }
+
+        .link_grey {
+            color: #777777 !important;
+            text-decoration: none !important;
+        }
+
+        .hover:hover {
+            text-decoration: none !important;
+            text-decoration-skip: ink !important;
+        }
+
+        .text_orange_bold {
+            color: #ff6600 !important;
+            font-weight: bold !important;
+        }
+
+        .padding_8 {
+            padding: 8px !important
+        }
+
+        .padding_16 {
+            padding: 16px !important
+        }
+
+        .padding_24 {
+            padding: 24px !important
+        }
+
+        .padding-top_8 {
+            padding-top: 8px !important
+        }
+
+        .padding-top_16 {
+            padding-top: 16px !important
+        }
+
+        .padding-top_24 {
+            padding-top: 24px !important
+        }
+
+        .padding-right_8 {
+            padding-right: 8px !important
+        }
+
+        .padding-right_16 {
+            padding-right: 16px !important
+        }
+
+        .padding-right_24 {
+            padding-right: 24px !important
+        }
+
+        .padding-bottom_8 {
+            padding-bottom: 8px !important;
+        }
+
+        .padding-bottom_16 {
+            padding-bottom: 16px !important;
+        }
+
+        .padding-bottom_24 {
+            padding-bottom: 24px !important;
+        }
+
+        .padding-left_8 {
+            padding-left: 8px !important
+        }
+
+        .padding-left_16 {
+            padding-left: 16px !important
+        }
+
+        .padding-left_24 {
+            padding-left: 24px !important
+        }
+
+        .article_featured_background-image {
+            background-repeat: no-repeat !important;
+        }
+
+        .article_regular_background-image {
+            background-position: 0px 14px !important;
+            background-repeat: no-repeat !important
+        }
+
+        .article_special_background-image {
+            background-position: 0px 14px !important;
+            background-repeat: no-repeat !important;
+        }
+
+        .product_image {
+            border-width: 1px;
+            border-style: solid;
+            border-color: #ffffff;
+            border-radius: 3px;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+        }
+
+            .product_image:hover {
+                border-width: 1px !important;
+                border-style: solid !important;
+                border-color: #dddddd !important;
+                border-radius: 3px !important;
+                -webkit-border-radius: 3px !important;
+                -moz-border-radius: 3px !important;
+                box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                -webkit-box-sizing: border-box;
+            }
+
+        .label_orange {
+            background-color: #ff6600 !important;
+            border-radius: 3px !important;
+            padding: 4px 6px 5px 6px !important;
+            color: #ffffff !important
+        }
+
+        .label_purple {
+            background-color: #68007A !important;
+            border-radius: 3px !important;
+            padding: 4px 6px 5px 6px !important;
+            color: #ffffff !important
+        }
+
+        .label_blue {
+            background-color: #0090E3 !important;
+            border-radius: 3px !important;
+            padding: 2px 8px;
+            color: #ffffff !important
+        }
+
+        .label_background_white_bottom {
+            background-color: #ffffff !important;
+        }
+
+        .button_darkblue {
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 3px;
+            border-bottom: 1px solid #5cb85c;
+            background-color: #5cb85c;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 15px;
+            line-height: 18px;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+            .button_darkblue a {
+                display: inline-block;
+                color: #ffffff;
+                text-decoration: none;
+                padding: 10px 10px 10px 10px;
+            }
+
+            .button_darkblue:hover {
+                background-color: #00b300 !important;
+                border-color: #00b300 !important;
+            }
+
+        .button_lightblue {
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 3px;
+            border-bottom: 2px solid #0090e3;
+            background-color: #40acea;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            line-height: 1;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+            .button_lightblue a {
+                display: inline-block;
+                color: #ffffff;
+                text-decoration: none;
+                padding: 16px 16px 14px 16px;
+            }
+
+            .button_lightblue:hover {
+                background-color: #0090e3 !important;
+                border-color: #285dab !important;
+            }
+
+        .button_orange {
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 3px;
+            border-bottom: 2px solid #e54b03;
+            background-color: #ff6600;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            line-height: 1;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+            .button_orange a {
+                display: inline-block;
+                color: #ffffff;
+                text-decoration: none;
+                padding: 16px 16px 14px 16px;
+            }
+
+            .button_orange:hover {
+                background-color: #e54b03 !important;
+                border-color: #B93800 !important;
+            }
+
+        .button_red {
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 3px;
+            border-bottom: 2px solid #c00000;
+            background-color: #e40000;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            line-height: 1;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+            .button_red a {
+                display: inline-block;
+                color: #ffffff;
+                text-decoration: none;
+                padding: 16px 16px 14px 16px;
+            }
+
+            .button_red:hover {
+                background-color: #c00000 !important;
+                border-color: #8e2b00 !important;
+            }
+
+        .button_green {
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 3px;
+            border-bottom: 2px solid #018b00;
+            background-color: #01b901;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            line-height: 1;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+            .button_green a {
+                display: inline-block;
+                color: #ffffff;
+                text-decoration: none;
+                padding: 16px 16px 14px 16px;
+            }
+
+            .button_green:hover {
+                background-color: #009600 !important;
+                border-color: #005e00 !important;
+            }
+
+        .button_ghost {
+            text-align: center;
+            vertical-align: middle;
+            border-radius: 3px;
+            border: 1px solid #dddddd;
+            background-color: #ffffff;
+            font-family: Calibri, Trebuchet, Arial, sans-serif;
+            font-size: 13px;
+            line-height: 1;
+            color: #40acea;
+            font-weight: normal;
+        }
+
+            .button_ghost a {
+                display: inline-block;
+                color: #40acea;
+                text-decoration: none;
+                padding: 16px 16px 16px 16px;
+            }
+
+            .button_ghost:hover {
+                border-color: #999999 !important;
+            }
+
+        .button_href {
+            width: 100% !important;
+        }
+
+        .block_swap:hover {
+            display: block !important;
+        }
+
+        .nowrap {
+            white-space: nowrap !important;
+        }
+
+        .price_for {
+            font-size: 15px !important;
+            font-weight: bold !important;
+        }
+
+        .price_from {
+            font-size: 13px !important;
+            color: #999999 !important;
+            text-decoration: line-through;
+            font-weight: normal !important
+        }
+
+        .usp_bar_text:hover {
+            color: #0090E3 !important;
+        }
+--></style>
+<style type="text/css"><!--
+@media screen and (max-width: 480px), screen and (max-device-width: 480px) {
+            .container {
+                width: 320px !important;
+            }
+
+            .header {
+                width: 100% !important;
+            }
+
+            .artikel {
+                padding-left: 20px !important;
+                width: 100% !important;
+                padding-right: 20px !important;
+            }
+
+            .padding20 {
+                padding: 20px !important;
+            }
+
+            .margintop20 {
+                margin-top: 20px !important;
+            }
+
+            .padding10 {
+                padding: 10px !important;
+                padding-top: 20px !important;
+            }
+
+            .image {
+                width: 100% !important;
+                padding-bottom: 10px !important;
+            }
+
+            .padding5 {
+                padding: 5px !important;
+            }
+
+            .padding0 {
+                padding: 0px !important;
+            }
+
+            .padding_article {
+                padding: 10px !important;
+                padding-bottom: 20px !important;
+            }
+
+            .paddingtop20 {
+                padding-top: 20px !important;
+            }
+
+            .paddingtop10 {
+                padding-top: 10px !important;
+            }
+
+            .height15 {
+                height: 15px !important;
+            }
+
+            .font25 {
+                font-size: 25px !important;
+            }
+
+            .font14 {
+                font-size: 14px !important;
+                line-height: 20px !important;
+            }
+
+            .width100 {
+                width: 100% !important;
+            }
+
+            .width100_border {
+                width: 100% !important;
+                border-right: none !important;
+            }
+
+            .width50 {
+                width: 50px !important;
+            }
+
+            .width150 {
+                width: 150px !important;
+            }
+
+            .width80 {
+                width: 80px !important;
+            }
+
+            .no_display {
+                display: none !important;
+            }
+
+            .border0 {
+                border: 0 !important;
+            }
+
+            .titel {
+                padding: 10px 0 0 10px !important;
+                text-align: left !important;
+            }
+        }
+
+        @media only screen and (max-width:640px) {
+            h3.themeblock {
+                font-size: 13px !important;
+                line-height: 20px !important;
+            }
+
+            .width_100p {
+                min-width: 100% !important;
+                width: 100% !important;
+            }
+
+            .width_90p {
+                min-width: 90% !important;
+                width: 90% !important;
+            }
+
+            .width_80p {
+                min-width: 80% !important;
+                width: 80% !important;
+            }
+
+            .width_70p {
+                min-width: 70% !important;
+                width: 70% !important;
+            }
+
+            .width_60p {
+                min-width: 60% !important;
+                width: 60% !important;
+            }
+
+            .width_50p {
+                min-width: 50% !important;
+                width: 50% !important;
+            }
+
+            .width_49p {
+                min-width: 49% !important;
+                width: 49% !important;
+            }
+
+            .width_48p {
+                min-width: 48% !important;
+                width: 48% !important;
+            }
+
+            .width_40p {
+                min-width: 40% !important;
+                width: 40% !important;
+            }
+
+            .width_30p {
+                min-width: 30% !important;
+                width: 30% !important;
+            }
+
+            .width_20p {
+                min-width: 20% !important;
+                width: 20% !important;
+            }
+
+            .width_10p {
+                min-width: 10% !important;
+                width: 10% !important;
+            }
+
+            .width_0p {
+                min-width: 0% !important;
+                width: 0% !important;
+            }
+
+            u + .body .wrapper {
+                width: 100% !important;
+                width: 100vw !important
+            }
+
+            .hide {
+                display: none !important;
+            }
+
+            .hide_background {
+                background: none !important;
+            }
+
+            .block {
+                display: block !important;
+            }
+
+            .inline-block {
+                display: inline-block !important;
+            }
+
+            .padding_mob_8 {
+                padding: 8px !important
+            }
+
+            .padding_mob_16 {
+                padding: 16px !important
+            }
+
+            .padding_mob_24 {
+                padding: 24px !important
+            }
+
+            .padding-top_mob_8 {
+                padding-top: 8px !important
+            }
+
+            .padding-top_mob_16 {
+                padding-top: 16px !important
+            }
+
+            .padding-top_mob_24 {
+                padding-top: 24px !important
+            }
+
+            .padding-right_mob_8 {
+                padding-right: 8px !important
+            }
+
+            .padding-right_mob_16 {
+                padding-right: 16px !important
+            }
+
+            .padding-right_mob_24 {
+                padding-right: 24px !important
+            }
+
+            .padding-bottom_mob_8 {
+                padding-bottom: 8px !important;
+            }
+
+            .padding-bottom_mob_16 {
+                padding-bottom: 16px !important;
+            }
+
+            .padding-bottom_mob_24 {
+                padding-bottom: 24px !important;
+            }
+
+            .padding-left_mob_8 {
+                padding-left: 8px !important
+            }
+
+            .padding-left_mob_16 {
+                padding-left: 16px !important
+            }
+
+            .padding-left_mob_24 {
+                padding-left: 24px !important
+            }
+
+            .no_padding {
+                padding: 0px !important;
+            }
+
+            .no_padding-top {
+                padding-top: 0px !important;
+            }
+
+            .no_padding-right {
+                padding-right: 0px !important;
+            }
+
+            .no_padding-bottom {
+                padding-bottom: 0px !important;
+            }
+
+            .no_padding-left {
+                padding-left: 0px !important;
+            }
+
+            .height_auto {
+                height: auto !important;
+            }
+
+            .column_border_bottom, .border-bottom, .border-bottom_grey_mobile {
+                border-bottom: 1px solid #dddddd !important;
+            }
+
+            .direction_rtl {
+                direction: rtl !important;
+            }
+
+            .experienceleaderboard_background_product, .experienceleaderboard_background_producttype, .experienceleaderboard_background_branding {
+                background-color: #0090E3 !important;
+                background-position: top right !important;
+                background-size: 100% !important;
+                background-repeat: no-repeat !important
+            }
+
+            .experienceleaderboard_background_product {
+                background-image: url("https://dhz-proshop.be/wwwroot/Content/Images/Mailing/bolts.png")
+            }
+
+            .experienceleaderboard_background_producttype {
+                background-image: url("")
+            }
+
+            .experienceleaderboard_background_branding {
+                background-image: url("")
+            }
+
+            .experienceleaderboard_box_padding {
+                padding: 140px 8px 16px 8px !important;
+            }
+
+            .experienceleaderboard_box_padding_branding {
+                padding: 180px 8px 16px 8px !important;
+            }
+
+            .experienceleaderboard_content_padding {
+                padding: 24px 16px 24px 0px !important;
+                background-color: #ffffff !important;
+                border-radius: 3px !important;
+            }
+
+            .experienceleaderboard_content_title_large {
+                font-size: 22px !important;
+                line-height: 22px !important;
+            }
+
+            .experienceleaderboard_content_title_small {
+                font-size: 18px !important;
+                line-height: 20px !important;
+            }
+
+            .experienceleaderboard_content_subtitle {
+                font-size: 15px !important;
+                line-height: 18px !important;
+            }
+
+            .experienceleaderboard_content_link {
+                font-size: 13px !important;
+                line-height: 18px !important;
+            }
+
+            .experienceleaderboard_content_price {
+                padding-bottom: 8px !important;
+            }
+
+            .experienceleaderboard_content_cbk {
+                height: 50px !important;
+                font-size: 50px !important;
+                line-height: 50px !important;
+                display: block !important;
+                background-image: url("https://www.dhz-proshop.be") !important;
+                background-size: auto 43px !important;
+                background-position: 8px 0px !important;
+            }
+
+            .experienceleaderboard_content_image {
+                padding: 0px 16px 0px 8px !important;
+            }
+
+            .no_border-bottom {
+                border-bottom: 0px !important;
+            }
+
+            .header_logo {
+                width: auto !important;
+                height: 44px !important;
+            }
+
+            .leaderboard_mobile_image {
+                width: 75% !important;
+            }
+
+            .leaderboard_table_image, .leaderboard_table_text {
+                height: auto !important;
+                width: 100% !important
+            }
+
+            .leaderboard_table_text {
+                padding-top: 15px !important;
+            }
+
+            .leaderboard_table_image {
+                padding-bottom: 15px !important;
+            }
+
+            .footer_icon_pijltje, .footer_icon_nl {
+                padding-right: 0px !important;
+            }
+
+            .label_background_white_bottom {
+                background-color: transparent !important;
+            }
+
+            .label_background_white_top {
+                background-color: #ffffff !important;
+            }
+
+            .product_column {
+                padding: 16px 0px 16px 0px !important;
+            }
+
+            .blog_specialist_image {
+                width: 80% !important;
+                border-bottom: 1px solid #dddddd !important;
+            }
+
+            .blog_image_padding {
+                padding-bottom: 16px !important;
+            }
+
+            .image_swap_desktop {
+                display: none !important;
+                width: 0px !important;
+                height: 0px !important;
+                overflow: hidden !important;
+                line-height: 0px !important;
+                font-size: 0px !important;
+            }
+
+            .image_swap_mobile {
+                display: block !important;
+                max-height: none !important;
+                max-width: none !important;
+                line-height: 1.5 !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            .footer_icon {
+                width: 30px !important;
+            }
+
+            .font-weight_normal {
+                font-weight: normal !important;
+            }
+
+            .themeblock_direction {
+                direction: ltr !important;
+            }
+
+            .themeblock_padding {
+                padding: 16px 0px 16px 16px !important;
+            }
+
+            .text_align_left {
+                text-align: left !important;
+            }
+
+            .text-align_center {
+                text-align: center !important;
+            }
+
+            .padding_producttypeblocks {
+                padding: 8px 8px 8px 16px !important;
+            }
+        }
+
+        @media only screen and (max-width:420px) {
+            .logo {
+                width: 100% !important
+            }
+
+            .article_spacer {
+                height: 130px !important;
+            }
+        }
+
+        @media only screen and (max-width:350px) {
+            .experienceleaderboard_content_subtitle {
+                font-size: 13px !important
+            }
+        }
+
+        @media only screen and (max-width:320px) {
+            .leaderboard_mobile_image_text, .factslogan {
+                width: 100% !important
+            }
+
+            h2.experienceleaderboard_content_title_large {
+                font-size: 18px !important;
+                line-height: 20px !important;
+            }
+
+            h3.leaderboard {
+                font-size: 13px !important;
+                line-height: 16px !important;
+                padding: 0px !important;
+            }
+        }
+--></style>
+<!-- | Interactive styles | -->
+<p></p>
+<!-- Interactive - Video -->
+<style type="text/css"><!--
+.video-wrapper {
+            display: none;
+        }
+
+        #MessageViewBody .video-wrapper {
+            display: block !important;
+        }
+
+        #MessageViewBody .video-fallback {
+            display: none !important;
+        }
+--></style>
+<style type="text/css"><!--
+@supports (-webkit-overflow-scrolling:touch) and (color:#ffffffff) {
+            div[class^=video-wrapper] {
+                display: block !important;
+            }
+
+            div[class^=video-fallback] {
+                display: none !important;
+            }
+        }
+--></style>
+<!-- Interactive - Button -->
+<style type="text/css"><!--
+.button {
+            transition-property: background, border;
+            transition-duration: 0.1s;
+            transition-timing-function: linear;
+            transition-delay: initial;
+            cursor: pointer;
+        }
+--></style>
+<!-- Interactive - Hover -->
+<style type="text/css"><!--
+.image_hover:hover > img {
+            max-height: 0px !important;
+        }
+
+        .image_hover:hover > div img {
+            max-height: none !important;
+        }
+
+        @media screen and (max-width: 639px) {
+            .image_hover:hover > img {
+                max-height: none !important;
+            }
+
+            .image_hover:hover > div img {
+                max-height: 0px !important;
+            }
+        }
+--></style>
+<!-- | Fonts | -->
+<p></p>
+<!-- [if !mso]><!-->
+<style type="text/css"><!--
+@media only screen {
+            @font-face {
+                font-family: Calibri, Trebuchet, Arial, sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                src: local('Open Sans'), local('Open Sans'), url(https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+            }
+
+            @font-face {
+                font-family: Calibri, Trebuchet, Arial, sans-serif;
+                font-style: normal;
+                font-weight: 700;
+                src: local('Open Sans Bold'), local('Open Sans-Bold'), url(https://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzHhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+            }
+
+            @font-face {
+                font-family: Calibri, Trebuchet, Arial, sans-serif;
+                font-style: italic;
+                font-weight: 400;
+                src: local('Open Sans Italic'), local('Open Sans-Italic'), url(https://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBobN6UDyHWBl620a-IRfuBk.woff) format('woff');
+            }
+
+            @font-face {
+                font-family: Calibri, Trebuchet, Arial, sans-serif;
+                src: local(Avenir-Black), local(AvenirBlack);
+                font-weight: 900
+            }
+
+            @font-face {
+                font-family: Calibri, Trebuchet, Arial, sans-serif;
+                src: local("DobraSlab"), local("DobraSlabBook");
+            }
+
+            @font-face {
+                font-family: Calibri, Trebuchet, Arial, sans-serif;
+                src: local("DobraSlab"), local("DobraSlabMedium");
+                font-weight: 500;
+            }
+        }
+--></style>
+<style type="text/css"><!--
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+            .font_dobra {
+                font-family: Calibri, Trebuchet, Arial, sans-serif !important;
+                font-weight: normal !important;
+            }
+
+            .label {
+                font-family: Calibri, Trebuchet, Arial, sans-serif !important;
+                font-weight: 500 !important;
+                letter-spacing: 0.5px !important;
+            }
+        }
+--></style>
+<!--<![endif]-->
+<p></p>
+<!-- | Fallback styles | -->
+<p></p>
+<!-- Gmail Date/Phonenumber/Links Reset Styles -->
+<style type="text/css"><!--
+u + .body a {
+            color: inherit;
+            text-decoration: inherit
+        }
+--></style>
+<!-- iOS Date/Phonenumber Reset Styles -->
+<style type="text/css"><!--
+a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important
+        }
+--></style>
+<!-- Android 4.4 Center Fix Styles -->
+<style type="text/css"><!--
+div[style*="margin: 16px 0;"] {
+            margin: 0 !important;
+            max-width: 94% !important
+        }
+--></style>
+<!-- [if gte mso 9]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <style type="text/css">
+
+    * {
+    mso-margin-bottom-alt: 0;
+    mso-margin-top-alt: 0;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt
+    }
+
+        .auto-style1 {
+            width: 184px;
+        }
+
+        </style>
+    <![endif]-->
+<div lang="nl" role="article" aria-label="Je bestelling van Dhz-proshop ligt klaar!"><!-- Gmail Fix -->
+<div id="new-gmail-hack" style="white-space: nowrap; font: 15px courier; line-height: 0; display: none;">                                     </div>
+<table>
+<tbody>
+<tr>
+<td style="font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #ffffff;">Je pakketje ligt klaar voor afhaling!</td>
+</tr>
+</tbody>
+</table>
+<!-- Header - Container -->
+<table class="wrapper" role="banner" width="100%">
+<tbody>
+<tr>
+<td align="center" style="vertical-align: top;">
+<table width="100%"><!-- header - Begin -->
+<tbody>
+<tr>
+<td class="background_dhz" style="background-color: #ffffff;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="width: 100%;" align="center">
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td align="center" class="padding-left_mob_8" style="padding: 0px 0px 3px 0px; vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="width: 10px;"></td>
+<td align="left" style="width: 80px;" class="width_30p"><a href="https://www.dhz-proshop.be"> <img src="https://www.dhz-proshop.be/Content/Images/Mailing/logo-mailing.png" width="250" height="75" style="width: auto; font-family: DobraSlab, Arial, sans-serif; color: #ffffff;" alt="Dhz-proshop.be" title="Dhz-proshop.be" class="header_logo" /> </a></td>
+<td style="width: 60px;"></td>
+<td align="right" style="padding-right: 10px; width: 400px;">
+<table>
+<tbody>
+<tr>
+<td align="center"><a href="https://www.dhz-proshop.be/customer/info"> <img src="https://www.dhz-proshop.be/Content/Images/Mailing/icon-green.png" alt="Ga naar je account" title="Ga naar je account" width="23" height="35" style="height: 35px;" /> </a>
+<p style="color: #777777; font-weight: bold; font-size: 12px;"><a href="https://www.dhz-proshop.be/customer/info" style="color: #777777; font-weight: bold; font-size: 12px;" class="link_grey hover">Mijn account</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+</tr>
+<tr>
+<td>
+<table role="presentation" width="100%" class="border-bottom_green" style="border-bottom: 1px solid #5cb85c;">
+<tbody>
+<tr>
+<td style="width: 10px;"></td>
+<td style="width: 100%;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="font-size: 3px; line-height: 6px;" class="auto-style3"></td>
+</tr>
+<tr>
+<td style="height: 1px; line-height: 1px; font-size: 1px;"> </td>
+</tr>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Header - End --> <!-- Banner - Begin -->
+<tr>
+<td class="background_dhz" style="background-color: #ffffff;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td width="100%" align="center">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table style="width: 640px; background-color: #ffffff; text-align: left;" class="width100">
+<tbody>
+<tr>
+<td style="width: 5px;"></td>
+<td style="padding: 15px 0px 10px 0px; vertical-align: middle;"><a href="https://www.dhz-proshop.be" target="_blank"> <img src="https://www.dhz-proshop.be/Content/Images/Mailing/banners/banner-afhaling1.png" alt="Je bestelling komt eraan!" title="Je bestelling is verwerkt en kan afgehaald worden!" class="width100" style="display: block;" /> </a></td>
+<td style="width: 5px;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Banner - End --></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Body - Container -->
+<table class="wrapper" role="main" width="100%" align="center">
+<tbody>
+<tr>
+<td align="center"><!-- Body - Start --> <!-- Salutations -->
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td style="width: 10px;"> </td>
+<td align="left" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" style="padding: 20px 0px 16px 0px;">
+<h3 style="color: #777777; font-size: 12px; font-weight: normal; font-family: Arial;" class="leaderboard">Beste %Customer.FirstName%,</h3>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+<!-- Intro -->
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td style="width: 10px;"> </td>
+<td align="left" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" style="padding: 0px 0px 16px 0px;">
+<h3 style="color: #777777; font-size: 12px; font-weight: normal; font-family: Arial;" class="leaderboard"><br /> Goed nieuws!<br /> Je bestelling met ordernummer <a href="%Order.OrderURLForCustomer%" class="link_dhz hover">%Order.OrderNumber%</a> is zonet verwerkt en staat klaar voor afhaling. <br /> Je kan langs komen tijdens onze openingsuren:<br /> Maandag - vrijdag: 9u – 17u<br /> Dinsdag: 9u – 18u30<br /> Zaterdag: 9u – 14u<br /><br /> Eventuele openstaande items of aanpassingen aan je bestelling kan je steeds opvolgen via het order detail in je account.</h3>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 5px 0px 5px 0px;">
+<p style="font-weight: bold;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+<tr>
+<td style="background-color: #ffffff; height: 1px; line-height: 1px; font-size: 1px;"> </td>
+</tr>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td style="width: 10px;"> </td>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 0px 0px 8px 0px; vertical-align: top;" align="left">
+<h2 style="color: #5cb85c; font-size: 13px; font-weight: bold; font-family: Arial;" class="leaderboard">Belangrijke info</h2>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" style="padding: 0px 0px 16px 0px;">
+<h3 style="color: #777777; font-size: 12px; font-weight: normal; font-family: Arial;" class="leaderboard">Bestaat je order uit meerdere producten?<br /> Je ontvangt deze mail van zodra er iets klaar ligt van je bestelling, het kan dus gebeuren dat nog niet alles binnen is. De status &amp; alle benodigde info kan je steeds bekijken in je order overzicht:</h3>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 0px 0px 0px 0px;" align="left">
+<table role="presentation" style="border-collapse: separate;" class="width_100p button">
+<tbody>
+<tr>
+<td class="button_darkblue button width_100p" style="padding: 5px 5px 5px 5px; background-color: #5cb85c; color: #ffffff;"><a href="%Order.OrderURLForCustomer%" class="link_white"> <!-- [if (gte mso 9)|(IE)]>&nbsp;&nbsp;<![endif]--> <span style="vertical-align: top; color: #ffffff;">&gt; Naar mijn order</span> <!-- [if (gte mso 9)|(IE)]>&nbsp;&nbsp;<![endif]--> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table role="presentation" width="100%" class="border-bottom_green" style="border-bottom: 1px solid #5cb85c;">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+<tr>
+<td style="height: 1px; line-height: 1px; font-size: 1px;"> </td>
+</tr>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+<!-- Theme - Leaderboard - Product -->
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td style="width: 10px;"> </td>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 20px 0px 8px 0px; vertical-align: top;" align="left">
+<h2 style="color: #5cb85c; font-size: 13px; font-weight: bold; font-family: Arial;" class="leaderboard">Items die klaar liggen</h2>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" style="padding: 0px 0px 16px 0px;">
+<p style="color: #777777; font-weight: bold; font-size: 13px;">%Shipment.Product(s)%</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table role="presentation" width="100%" class="border-bottom_green" style="border-bottom: 1px solid #5cb85c;">
+<tbody>
+<tr>
+<td style="width: 100%;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+<tr>
+<td style="height: 1px; line-height: 1px; font-size: 1px;"> </td>
+</tr>
+<tr>
+<td style="height: 6px; font-size: 3px; line-height: 6px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td style="width: 10px;"> </td>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 5px 0px 5px 0px;">
+<p style="font-weight: bold;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+<table role="presentation" style="width: 640px;" class="width_100p">
+<tbody>
+<tr>
+<td style="width: 10px;"> </td>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 5px 0px 5px 0px;">
+<p style="font-weight: bold;"></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 10px;"> </td>
+</tr>
+</tbody>
+</table>
+<!-- Body - End --></td>
+</tr>
+</tbody>
+</table>
+<!-- Footer - Container -->
+<table class="wrapper" role="contentinfo" width="100%">
+<tbody>
+<tr>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="background_dhz-footer" style="background-color: #f01f20;">
+<table role="presentation" class="width_100p" style="width: 640px;">
+<tbody>
+<tr>
+<td style="width: 16px;"> </td>
+<td align="center" style="vertical-align: top;">
+<table role="presentation" width="100%" class="border-bottom_grey" style="border-bottom: 1px solid #ffffff;">
+<tbody>
+<tr>
+<td>
+<table role="presentation" width="100%">
+<tbody>
+<tr><th style="vertical-align: top; font-size: 0; width: 270px;" class="width_100p block">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 24px 0px 5px 0px;" class="no_padding-bottom">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding-bottom: 10px; vertical-align: middle;" align="left">
+<p style="color: #ffffff; font-weight: bold; font-size: 14px;">Afhaalpunt</p>
+</td>
+</tr>
+<tr>
+<td align="left" style="padding-bottom: 8px;">
+<table role="presentation">
+<tbody>
+<tr>
+<td class="auto-style1">
+<p style="color: #ffffff; line-height: 18px; font-size: 13px; text-decoration: none;">Dhz-proshop<br /> Dennenlaan 12C<br /> 2340 Beerse<br /> België</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th><th style="width: 10px;" class="hide"> </th><th style="vertical-align: top; font-size: 0; width: 360px;" class="width_100p block">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding: 24px 0px 24px 0px;">
+<table role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="padding-bottom: 10px; vertical-align: middle; text-align: left;">
+<p style="color: #ffffff; font-weight: bold; font-size: 14px;">Maatschappelijke zetel</p>
+</td>
+</tr>
+<tr>
+<td align="left" style="padding-bottom: 8px;">
+<table role="presentation" style="text-align: left;">
+<tbody>
+<tr>
+<td>
+<p style="color: #ffffff; line-height: 18px; font-size: 13px; text-decoration: none;">Dhz-proshop is onderdeel van Dybaco Bv<br /> Heizijde 223<br /> 2300 Turnhout<br /> België<br /> Btw: BE 0541.329.878</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+</tr>
+</tbody>
+</table>
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr>
+<td align="center" style="vertical-align: middle; width: 100%;">
+<table role="presentation" class="width_100p" style="width: 640px;">
+<tbody>
+<tr>
+<td style="width: 16px;"> </td>
+<td align="center" style="text-align: center; vertical-align: top; padding: 5px 0px 10px 0px;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 10px 0px 0px 0px;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 640px; text-align: center;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p style="color: #ffffff; line-height: 18px; font-size: 15px; font-weight: bold; text-align: center;">Volg of contacteer ons op sociale media!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 24px 0px 0px 0px;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 192px;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr><th class="width_100p block text-align_center" style="text-align: left; width: 25%;"><a href="https://www.facebook.com/Dhzproshop/"> <img src="https://www.dhz-proshop.be/Content/Mailing/facebook.png" srcset="https://www.dhz-proshop.be/Content/Mailing/facebook.png" width="40" height="40" style="vertical-align: middle; height: auto;" alt="Facebook Dhz-proshop" /> </a></th><th class="width_100p block text-align_center padding-top_mob_8" style="text-align: left; width: 75%;">
+<p style="color: #ffffff; line-height: 18px; font-size: 13px;"><a href="https://www.facebook.com/Dhzproshop/" class="link_white hover" style="color: #ffffff;"><span class="hide" style="color: #ffffff;">Facebook</span></a></p>
+</th></tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+<td style="width: 192px;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr><th class="width_100p block text-align_center" style="text-align: left; width: 25%;"><a href="https://www.linkedin.com/company/dybaco-bvba"> <img src="https://www.dhz-proshop.be/Content/Mailing/linkedin.png" srcset="https://www.dhz-proshop.be/Content/Mailing/linkedin.png" width="40" height="40" style="vertical-align: middle; height: auto;" alt="#FTR_ICON2_LINE1" /> </a></th><th class="width_100p block text-align_center padding-top_mob_8" style="text-align: left; width: 75%;">
+<p style="color: #ffffff; line-height: 18px; font-size: 13px;"><a href="https://www.linkedin.com/company/dybaco-bvba" class="link_white hover" style="color: #ffffff;"><span class="hide" style="color: #ffffff;">Linkedin</span></a></p>
+</th></tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+<td style="width: 192px;">
+<table role="presentation" style="width: 100%;">
+<tbody>
+<tr><th class="width_100p block text-align_center" style="text-align: left; width: 25%;"><a href="https://twitter.com/Dhz_proshop"> <img src="https://www.dhz-proshop.be/Content/Mailing/twitter.png" srcset="https://www.dhz-proshop.be/Content/Mailing/twitter.png" width="40" height="40" style="vertical-align: middle; height: auto;" alt="#FTR_ICON3_LINE1" /> </a></th><th class="width_100p block text-align_center padding-top_mob_8" style="text-align: left; width: 75%;">
+<p style="color: #ffffff; line-height: 18px; font-size: 13px;"><a href="https://twitter.com/Dhz_proshop" class="link_white hover" style="color: #ffffff;"><span class="hide" style="color: #ffffff;">Twitter</span></a></p>
+</th></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Menu -->
+<tr>
+<td align="center" style="vertical-align: middle;">
+<table role="presentation" class="width_100p" style="width: 640px;">
+<tbody>
+<tr>
+<td style="width: 16px;"> </td>
+<td style="padding: 16px 0px 16px 0px; vertical-align: middle; text-align: center;">
+<table role="presentation">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a href="https://www.dhz-proshop.be/faq/gebruiksvoorwaarden-3" class="link_dhz hover"><span class="hide">Gebruiks</span>voorwaarden</a> | <a href="https://www.dhz-proshop.be/faq/privacy-verklaring-3" class="link_dhz hover">Privacy verklaring</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="width: 16px;"> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Footer - End --></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
